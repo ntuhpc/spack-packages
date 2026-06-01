@@ -1,0 +1,9 @@
+#
+# NTUHPC
+# Spack Packages
+# Repo Index
+#
+
+repo_index:
+  paths:
+  - ntuhpc
